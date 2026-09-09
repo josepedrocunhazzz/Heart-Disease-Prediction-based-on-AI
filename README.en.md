@@ -96,4 +96,4 @@ Then run the cells in order. The Active Learning experiments iterate over many c
 
 ## Academic context
 
-Project presented in **José Cunha's** portfolio and developed at the University of Coimbra in the context of Human-AI cooperation, explainability, trustworthiness and transparency. Full academic authorship, methodology and discussion are recorded in the [paper](Heart%20Disease%20PredictionяbasedяonяAI.pdf).
+Work developed as part of the Human-Centred Artificial Intelligence course at the University of Coimbra.
