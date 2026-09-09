@@ -66,7 +66,7 @@ SHAP destacou `ST_Slope`, `Oldpeak`, `ChestPainType`, `ExerciseAngina` e coleste
 
 ```text
 HeartDisease_AI/
-├── Projeto_JoséCunha_JoséFilipe_BenjamimMoreira.ipynb
+├── Projeto_*.ipynb           # notebook principal da experiência
 ├── Heart Disease Prediction based on AI.pdf
 ├── Project_Proposal.pdf
 ├── requirements.txt
