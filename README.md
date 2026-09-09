@@ -96,4 +96,4 @@ Depois executar as células por ordem. As experiências de Active Learning perco
 
 ## Contexto académico
 
-Trabalho desenvolvido por **Benjamim Moreira, José Filipe e José Cunha** na Universidade de Coimbra, no âmbito de Human-AI Cooperation, explainability, trustworthiness e transparency. O [artigo](Heart%20Disease%20PredictionяbasedяonяAI.pdf) apresenta a metodologia e discussão completas.
+Projeto apresentado no portefólio de **José Cunha**, desenvolvido na Universidade de Coimbra no âmbito de Human-AI Cooperation, explainability, trustworthiness e transparency. A autoria académica completa, metodologia e discussão encontram-se no [artigo](Heart%20Disease%20PredictionяbasedяonяAI.pdf).
